@@ -1,2 +1,3 @@
 # Churrasquinho
 
+Primeiro repositório git
